@@ -51,7 +51,7 @@ public class MemberServiceImpl implements MemberService {
     }
 
 //    public boolean isIdDuplicate(String id) {
-////        return memberRepository.findById(id).isPresent();
+////        return memberRepository.findById(id).isPresent();;
 //    }
 
 
