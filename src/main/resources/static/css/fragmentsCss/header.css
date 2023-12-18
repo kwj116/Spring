@@ -1,0 +1,1 @@
+header {    position:fixed;    width: 100%;    background: none;    text-align: center;    height: 80px;    display: flex;    align-items: center;    justify-content:end;    font-size: 15px;    background-color:#8aa1a1;}a{    text-decoration:none;    color: white;    margin:30px;}a:hover{    color:#506a6e;}.logout{    display:none;}

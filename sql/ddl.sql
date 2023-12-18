@@ -1,0 +1,8 @@
+멤버 테이블
+CREATE TABLE member(
+	id INT AUTO_INCREMENT PRIMARY KEY,
+	pw VARCHAR(20),
+	name VARCHAR(10),
+	email VARCHAR(30)
+)
+
